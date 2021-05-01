@@ -1,7 +1,7 @@
 # The universal visitation law of human mobility
 
 <div align="center">
-  <img src="https://github.com/leiii/VisitationLaw/blob/master/Cover.jpg" width = "800"><br><br>
+  <img src="https://github.com/leiii/VisitationLaw/blob/main/Cover.jpg" width = "800"><br><br>
 </div>
 image credit: Guangyu Du
 
