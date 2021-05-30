@@ -13,5 +13,6 @@ Publication: Schläpfer, M., Dong, L., O'Keeffe, K., Santi, P., Szell, M., Salat
 
 [Paper](https://www.nature.com/articles/s41586-021-03480-9) | [Project Web](https://senseable.mit.edu/wanderlust/) | [Code](https://github.com/Khev/human-mobility)
 
+The data and code will be released soon.
 ***
 Contact: arch.dongl@gmail.com
