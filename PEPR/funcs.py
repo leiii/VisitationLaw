@@ -49,7 +49,7 @@ def levy_flight(num_steps: int, alpha: float) -> np.array:
 def levy_jump(x_curr: int, y_curr: int, alpha: float, box_size: float) -> [int, int]:
     """
     
-    Does a levy jump s
+    Does a levy jump.
     
     Args:
         x_curr: current x coordinate
