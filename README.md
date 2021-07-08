@@ -11,7 +11,7 @@ image credit: Guangyu Du
 
 Publication: Schläpfer, M., Dong, L., O'Keeffe, K., Santi, P., Szell, M., Salat, H., Anklesaria, S., Vazifeh, M., Ratti, C., and West, G.B. **The universal visitation law of human mobility.** *Nature* 2021.
 
-[Paper](https://www.nature.com/articles/s41586-021-03480-9) | [Project Web](https://senseable.mit.edu/wanderlust/) | [Code](https://github.com/Khev/human-mobility)
+[Paper](https://www.nature.com/articles/s41586-021-03480-9) | [Project Web](https://senseable.mit.edu/wanderlust/) | [Code](https://github.com/leiii/VisitationLaw/tree/main/PEPR_model)
 
 ***
 
