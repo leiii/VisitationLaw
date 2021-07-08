@@ -20,5 +20,9 @@ Publication: Schläpfer, M., Dong, L., O'Keeffe, K., Santi, P., Szell, M., Salat
 - [Dakar](https://github.com/leiii/VisitationLaw/blob/main/Data/Dakar.csv.zip)
 - [Abidjan](https://github.com/leiii/VisitationLaw/blob/main/Data/Abidjan.csv.zip)
 
+#### Reading materials
+- [Preprint](https://github.com/leiii/VisitationLaw/blob/main/VisitationLaw_preprint_202106.pdf)
+- [Slides](https://github.com/leiii/VisitationLaw/blob/main/VisitationLaw_slides_202106_LeiDong.pdf)
+
 ***
 Contact: arch.dongl@gmail.com
