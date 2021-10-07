@@ -15,6 +15,10 @@ Publication: Schläpfer, M., Dong, L., O'Keeffe, K., Santi, P., Szell, M., Salat
 
 ***
 
+More about the visualization: Du, G., Dong, L., Duarte, F., and Ratti, C. **Wanderlust: 3D impressionism in human journeys.** *arXiv:2109.00058* 2021 [link](https://arxiv.org/abs/2109.00058)
+
+***
+
 #### Data
 - [Boston](https://www.dropbox.com/s/b2l4a5kxen37k2r/Boston.csv.zip?dl=0)
 - [Dakar](https://github.com/leiii/VisitationLaw/blob/main/Data/Dakar.csv.zip)
